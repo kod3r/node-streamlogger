@@ -1,3 +1,12 @@
+nodejs-streamlogger (0.0.1-0sg2) UNRELEASED; urgency=low
+
+  [ Wade Simmons ]
+  * add package.json
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Tue, 02 Nov 2010 18:46:48 +0000
+
 nodejs-streamlogger (0.0.1-0sg1) UNRELEASED; urgency=low
 
   * UNRELEASED
