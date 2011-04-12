@@ -1,3 +1,22 @@
+nodejs-streamlogger (0.0.1-0sg14) UNRELEASED; urgency=low
+
+  [ Kevin ]
+  * Fixed typo which was causing fatal error
+
+  [ Nick Campbell ]
+  * Fix package.json to be proper json. Signed-off-by: Nick Campbell
+    <nicholas.j.campbell@gmail.com>
+
+  [ N ]
+  * Fixed bug where reopen() could work only once.
+
+  [ Wade Simmons ]
+  * fix to work with node 0.2.x as well
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Tue, 12 Apr 2011 20:33:03 +0000
+
 nodejs-streamlogger (0.0.1-0sg13) UNRELEASED; urgency=low
 
   * UNRELEASED
